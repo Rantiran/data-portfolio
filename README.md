@@ -1,4 +1,4 @@
-# 📊 Portofolio Proyek – Suranti
+# 📊 Portofolio Proyek – rant
 
 Selamat datang di portofolio GitHub saya! Di sini saya mengumpulkan berbagai proyek yang telah saya kerjakan di bidang:
 
